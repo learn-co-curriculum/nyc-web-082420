@@ -7,7 +7,8 @@
 ## Module 1
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| Lecture ex : no links  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/01-intro-enumberables)  | [video]()    |
+| Welcome to Mod1  | [Slides](https://docs.google.com/presentation/d/1h2Ltvdh1vqd2fGTGx1wu2XAneICacSAa7yBWmSX32Iw)  | [video](https://youtu.be/R3yxHnV9Y5U) |
+| Ruby Enumerables | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/01-intro-enumberables) | [video]() |
 
 
 ## Blog Schedule
