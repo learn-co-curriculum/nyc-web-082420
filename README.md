@@ -7,6 +7,8 @@
 ## Module 1
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
+| Lecture ex : no links  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/01-intro-enumberables)  | [video]()    |
+
 
 ## Blog Schedule
 - [Blog Schedule Doc]()
