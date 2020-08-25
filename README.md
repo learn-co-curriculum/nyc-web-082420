@@ -11,7 +11,7 @@
 | Ruby Enumerables | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/01-intro-enumberables) | [video](https://youtu.be/eXbD4uRuV6k) |
 | Intro to OO | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/02-intro-oo) | [video](https://youtu.be/NR3sLIA_NV8) |
 | Practice Project Setup | [code](https://github.com/learn-co-students/oo-practice-assignment---use-this-one--oo-practice---use-this-one-1598382523) | [video](https://youtu.be/H3zTgVKT2Zc) |
-| OO Practice Pt 1 | No Code | [video - not uploaded yet]() |
+| OO Practice Pt 1 | No Code | [video](https://youtu.be/3VaLLuc78GY) |
 
 
 ## Blog Schedule
