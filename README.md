@@ -9,6 +9,8 @@
 | -----            | ----                | -----                |
 | Welcome to Mod1  | [Slides](https://docs.google.com/presentation/d/1h2Ltvdh1vqd2fGTGx1wu2XAneICacSAa7yBWmSX32Iw)  | [video](https://youtu.be/R3yxHnV9Y5U) |
 | Ruby Enumerables | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/01-intro-enumberables) | [video](https://youtu.be/eXbD4uRuV6k) |
+| Intro to OO | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/02-intro-oo) | [video](https://youtu.be/NR3sLIA_NV8) |
+| OO Practice Pt 1 | No Code | [video - not uploaded yet]() |
 
 
 ## Blog Schedule
