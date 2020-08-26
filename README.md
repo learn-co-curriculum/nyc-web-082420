@@ -13,6 +13,7 @@
 | Practice Project Setup | [code](https://github.com/learn-co-students/oo-practice-assignment---use-this-one--oo-practice---use-this-one-1598382523) | [video](https://youtu.be/H3zTgVKT2Zc) |
 | OO Practice Pt 1 | No Code | [video](https://youtu.be/3VaLLuc78GY) |
 | More OO | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/03-more-oo) | [video](https://youtu.be/JZn-0tuxl20) |
+| OO Practice Pt 2 | No Code | [video](https://youtu.be/UWubqMTSEDE) |
 
 
 ## Blog Schedule
