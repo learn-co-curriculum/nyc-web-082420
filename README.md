@@ -14,6 +14,8 @@
 | OO Practice Pt 1 | No Code | [video](https://youtu.be/3VaLLuc78GY) |
 | More OO | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/03-more-oo) | [video](https://youtu.be/JZn-0tuxl20) |
 | OO Practice Pt 2 | No Code | [video](https://youtu.be/UWubqMTSEDE) |
+| Intro to Associations | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/04-oo-associations) | [video](https://youtu.be/8CnDuLePinQ) |
+| OO Practice Pt 3 | No Code | [video-not uploaded]() |
 
 
 ## Blog Schedule
