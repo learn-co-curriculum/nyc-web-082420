@@ -17,6 +17,8 @@
 | Intro to Associations | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/04-oo-associations) | [video](https://youtu.be/8CnDuLePinQ) |
 | OO Practice Pt 3 | No Code | [video](https://youtu.be/6sCg01rF4vU) |
 | Many to Many Association | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/05-many-to-many) | [video](https://youtu.be/lZP7N7kvymw) |
+| Mock CC Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/06-oo-betterlyft-review) | [video](https://youtu.be/p0Is78GBV3I) |
+
 
 
 ## Blog Schedule
