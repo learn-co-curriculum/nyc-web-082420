@@ -22,7 +22,7 @@
 
 
 ## Blog Schedule
-- [Blog Schedule Doc]()
+- [Blog Schedule Doc](https://docs.google.com/document/d/1iiDDyaKwwAZm4MsTOAOKiHmF7cu4z87MKd0YOj4dGGg/edit?usp=sharing)
 
 ## Youtube Channels
 - [Mod1 Youtube Playlist](https://www.youtube.com/playlist?list=PL7N6AJhHq4A5PKVsAatzUNVnwtdvYf2D1)
