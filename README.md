@@ -19,6 +19,7 @@
 | Many to Many Association | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/05-many-to-many) | [video](https://youtu.be/lZP7N7kvymw) |
 | OO BetterLyft Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/06-oo-betterlyft-review) | [video](https://youtu.be/p0Is78GBV3I) |
 | Active Record | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/07-active-record) | [Intro](https://youtu.be/qVEN-pnYbP8) - [One to Many](https://youtu.be/LOGpfhoxGqw) - [Many to Many](https://youtu.be/4q4Va1bTsHc) |
+| APIs| [code](https://github.com/learn-co-students/nyc-web-080320/tree/master/07-apis) | [video](https://youtu.be/3s2lcX5fj2A) |
 
 
 
