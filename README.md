@@ -9,6 +9,7 @@
 | -----            | ----                | -----                |
 | Intro to Mod2 & the Internet  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/08-intro-to-mod2)  | [video](https://youtu.be/1zNQFh-oJeA) |
 | Intro to Rails 🚂 | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/09-intro-to-rails)  | [video](https://youtu.be/Mql76OhNJrE) |
+| Rails index/show  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/10-rails-index-show)  | [video]() |
 
 
 ## Module 1
