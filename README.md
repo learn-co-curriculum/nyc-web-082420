@@ -12,6 +12,7 @@
 | Rails index/show  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/10-rails-index-show)  | [video](https://youtu.be/ioT1eISnXhg) |
 | Rails Forms (Create, Update, Delete)  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/11-rails-forms-create-upate-delete)  | [video](https://youtu.be/Y7WC_CUTYAM) |
 | Rails Forms Associations  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/12-rails-associations) | [video1](https://youtu.be/5sXuiZhM-_8), [video2](https://youtu.be/AgzdCvubhB4) |
+| Rails Validations  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/13-rails-validations)  | [video](https://youtu.be/Sx6DAcE9IoM) |
 
 
 
