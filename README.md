@@ -15,6 +15,8 @@
 | Rails Validations  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/13-rails-validations)  | [video](https://youtu.be/Sx6DAcE9IoM) |
 | Optional AMA (end of week1)  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/14-ama-session)  | [video](https://youtu.be/ulaHNsa1NKU) |
 | Cookies & Sessions 🍪| [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/16-sessions-cookies) | [video](https://youtu.be/2FVhTQHvr-k) |
+| Auth Part 1 | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/17-auth-1) | [video 1](https://youtu.be/M8KKtveDDbc), [video 2](https://youtu.be/fzwIWYz-xFk) |
+
 
 
 
