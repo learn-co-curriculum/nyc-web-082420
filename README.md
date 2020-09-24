@@ -14,6 +14,7 @@
 | Rails Forms Associations  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/12-rails-associations) | [video1](https://youtu.be/5sXuiZhM-_8), [video2](https://youtu.be/AgzdCvubhB4) |
 | Rails Validations  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/13-rails-validations)  | [video](https://youtu.be/Sx6DAcE9IoM) |
 | Optional AMA (end of week1)  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/14-ama-session)  | [video](https://youtu.be/ulaHNsa1NKU) |
+| Cookies & Sessions 🍪| [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/16-sessions-cookies) | [video](https://youtu.be/2FVhTQHvr-k) |
 
 
 
