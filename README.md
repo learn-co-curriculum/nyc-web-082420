@@ -16,6 +16,7 @@
 | Optional AMA (end of week1)  | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/14-ama-session)  | [video](https://youtu.be/ulaHNsa1NKU) |
 | Cookies & Sessions 🍪| [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/16-sessions-cookies) | [video](https://youtu.be/2FVhTQHvr-k) |
 | Auth Part 1 | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/17-auth-1) | [video 1](https://youtu.be/M8KKtveDDbc), [video 2](https://youtu.be/fzwIWYz-xFk) |
+| Auth Part 2 | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/18-auth-2) | [video 1](https://youtu.be/J01TWBpQhkE), [video 2](https://youtu.be/RQoi8bjxX_o) |
 
 
 
