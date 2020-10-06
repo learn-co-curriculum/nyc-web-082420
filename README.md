@@ -9,6 +9,7 @@
 | -----            | ----                | -----                |
 | Intro to JS | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/19-intro-to-js)  | [video](https://youtu.be/51zxjrW9uzE) |
 | Intro to the DOM | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/20-intro-to-the-dom)  | [video](https://youtu.be/TrfBUBBDvXs) |
+| Array O'Functions | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/21-array-o-functions) |  |
 
 
 
