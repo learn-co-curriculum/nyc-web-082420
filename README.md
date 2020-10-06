@@ -10,6 +10,9 @@
 | Intro to JS | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/19-intro-to-js)  | [video](https://youtu.be/51zxjrW9uzE) |
 | Intro to the DOM | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/20-intro-to-the-dom)  | [video](https://youtu.be/TrfBUBBDvXs) |
 | Array O'Functions | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/21-array-o-functions) |  |
+| Intro to Events | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/22-intro-to-events) | [video pt 1](https://youtu.be/CNi1VSALTJA), [video pt 2](https://youtu.be/qa0h2FarbR4) |
+
+
 
 
 
