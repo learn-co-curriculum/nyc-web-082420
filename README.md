@@ -16,6 +16,10 @@
 | DOM Challenge Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/25-dom-challenge) | [video](https://www.youtube.com/watch?v=PUcMrNXiLl4)  |
 | Async & Fetch | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/26-async-and-fetch) | [video](https://youtu.be/JBwQzvRaqpw)  |
 | Toy Tale Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/27-toy-tale-review) | [video](https://youtu.be/BrmIj8uTTyM)  |
+| Fetch and the DOM | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/28-fetch-and-the-dom) | [video pt 1](https://youtu.be/J_yeltM0l84), [video pt 2](https://youtu.be/NG8ZJDw2nuQ)  |
+
+
+
 
 
 
@@ -34,7 +38,6 @@
 | Cookies & Sessions 🍪| [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/16-sessions-cookies) | [video](https://youtu.be/2FVhTQHvr-k) |
 | Auth Part 1 | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/17-auth-1) | [video 1](https://youtu.be/M8KKtveDDbc), [video 2](https://youtu.be/fzwIWYz-xFk) |
 | Auth Part 2 | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/18-auth-2) | [video 1](https://youtu.be/J01TWBpQhkE), [video 2](https://youtu.be/RQoi8bjxX_o) |
-
 
 
 
