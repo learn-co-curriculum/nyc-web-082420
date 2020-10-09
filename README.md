@@ -15,6 +15,8 @@
 | Event Delegation | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/24-event-delegation) | [video](https://youtu.be/UjZ_ZBS1ZPA)  |
 | DOM Challenge Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/25-dom-challenge) | [video](https://www.youtube.com/watch?v=PUcMrNXiLl4)  |
 | Async & Fetch | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/26-async-and-fetch) | [video](https://youtu.be/JBwQzvRaqpw)  |
+| Toy Tale Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/27-toy-tale-review) | [video](https://youtu.be/BrmIj8uTTyM)  |
+
 
 
 
