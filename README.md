@@ -17,6 +17,7 @@
 | Async & Fetch | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/26-async-and-fetch) | [video](https://youtu.be/JBwQzvRaqpw)  |
 | Toy Tale Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/27-toy-tale-review) | [video](https://youtu.be/BrmIj8uTTyM)  |
 | Fetch and the DOM | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/28-fetch-and-the-dom) | [video pt 1](https://youtu.be/J_yeltM0l84), [video pt 2](https://youtu.be/NG8ZJDw2nuQ)  |
+| Rails API | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/29-rails-api) | [video](https://youtu.be/1O-WUM8usSA)  |
 
 
 
