@@ -19,6 +19,7 @@
 | Fetch and the DOM | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/28-fetch-and-the-dom) | [video pt 1](https://youtu.be/J_yeltM0l84), [video pt 2](https://youtu.be/NG8ZJDw2nuQ)  |
 | Rails API | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/29-rails-api) | [video](https://youtu.be/1O-WUM8usSA)  |
 | Pokemon Teams Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/30-pokemon-teams-review) | [video](https://youtu.be/_4RLxMULaEk)  |
+| Mock Code Challenge Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/31-mock-code-challenge-review) | [video](https://youtu.be/q9hI6_ll2sk)  |
 
 
 
