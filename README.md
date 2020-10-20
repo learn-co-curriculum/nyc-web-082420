@@ -21,8 +21,8 @@
 | Pokemon Teams Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/30-pokemon-teams-review) | [video](https://youtu.be/_4RLxMULaEk)  |
 | Mock Code Challenge Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/31-mock-code-challenge-review) | [video](https://youtu.be/q9hI6_ll2sk)  |
 | Code Challenge Review | No code. I forgot to commit. :(  | [video](https://youtu.be/AGHj9VMJQHk)  |
-| Mock Code Challenge Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/32-oojs) | [video](https://youtu.be/Ly93xnTJxog)  |
-
+| OOJS | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/32-oojs) | [video](https://youtu.be/Ly93xnTJxog)  |
+| This, hoisting, scope | [this](https://github.com/learn-co-students/nyc-web-082420/tree/master/33-this), [hoisting etc.](https://github.com/learn-co-students/nyc-web-082420/tree/master/34-formalizing-js) | [video](https://youtu.be/YxM2Ik_N5s8)  |
 
 
 
