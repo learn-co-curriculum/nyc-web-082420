@@ -23,6 +23,9 @@
 | Code Challenge Review | No code. I forgot to commit. :(  | [video](https://youtu.be/AGHj9VMJQHk)  |
 | OOJS | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/32-oojs) | [video](https://youtu.be/Ly93xnTJxog)  |
 | This, hoisting, scope | [this](https://github.com/learn-co-students/nyc-web-082420/tree/master/33-this), [hoisting etc.](https://github.com/learn-co-students/nyc-web-082420/tree/master/34-formalizing-js) | [video](https://youtu.be/YxM2Ik_N5s8)  |
+| Serializers | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/35-serializers) | [video](https://youtu.be/mq28J_NFCZ8)  |
+
+
 
 
 
