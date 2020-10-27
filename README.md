@@ -11,6 +11,7 @@
 | -----            | ----                | -----                |
 | React Lecture Playlist | | [video](https://www.youtube.com/playlist?list=PL52ml34Nyj7Sw-S46_fCIlEqiaGUdZApk) |
 | Props Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/36-react-props)  | [video](https://youtu.be/M56o-uUhjBY) |
+| State and Events Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/37-state-and-events)  | [video](https://youtu.be/rB-4mTJrzTE) |
 
 
 
