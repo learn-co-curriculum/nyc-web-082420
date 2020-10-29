@@ -14,6 +14,7 @@
 | State and Events Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/37-state-and-events)  | [video](https://youtu.be/rB-4mTJrzTE) |
 | Advanced State and Events Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/38-advanced-state-events)  | [video](https://youtu.be/PzPS2aAPEQM) |
 | React Geek Out |  | [video](https://youtu.be/50xk_cQ48EQ) |
+| React Review + Forms | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/39-forms)  | [Pt. 1](https://youtu.be/3IxixusmMco) // [Pt. 2](https://youtu.be/5VM5lBo2Fsc) |
 
 
 
