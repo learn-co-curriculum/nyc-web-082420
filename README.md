@@ -16,6 +16,7 @@
 | React Geek Out |  | [video](https://youtu.be/50xk_cQ48EQ) |
 | React Review + Forms | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/39-forms)  | [Pt. 1](https://youtu.be/3IxixusmMco) // [Pt. 2](https://youtu.be/5VM5lBo2Fsc) |
 | Async React | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/40-async)  | [video](https://youtu.be/6_IVrPaeCos) |
+| Router Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/41-routing)  | [video](https://youtu.be/Sjx1CR4x-pw) |
 
 
 
