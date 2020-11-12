@@ -10,6 +10,7 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | React Lecture Playlist | | [video](https://www.youtube.com/playlist?list=PL52ml34Nyj7Sw-S46_fCIlEqiaGUdZApk) |
+| Redux Lecture Playlist | | [video](https://www.youtube.com/playlist?list=PL52ml34Nyj7QUNzMcxUX16vAk3qyKeRl4) |
 | Props Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/36-react-props)  | [video](https://youtu.be/M56o-uUhjBY) |
 | State and Events Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/37-state-and-events)  | [video](https://youtu.be/rB-4mTJrzTE) |
 | Advanced State and Events Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/38-advanced-state-events)  | [video](https://youtu.be/PzPS2aAPEQM) |
@@ -17,6 +18,7 @@
 | React Review + Forms | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/39-forms)  | [Pt. 1](https://youtu.be/3IxixusmMco) // [Pt. 2](https://youtu.be/5VM5lBo2Fsc) |
 | Async React | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/40-async)  | [video](https://youtu.be/6_IVrPaeCos) |
 | Router Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/41-routing)  | [video](https://youtu.be/Sjx1CR4x-pw) |
+| Redux Intro | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/42-redux-intro)  | [video](https://youtu.be/EtecEDD-1XY) |
 
 
 
