@@ -19,6 +19,7 @@
 | Async React | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/40-async)  | [video](https://youtu.be/6_IVrPaeCos) |
 | Router Review | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/41-routing)  | [video](https://youtu.be/Sjx1CR4x-pw) |
 | Redux Intro | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/42-redux-intro)  | [video](https://youtu.be/EtecEDD-1XY) |
+| Implementing Redux | [code](https://github.com/learn-co-students/nyc-web-082420/tree/master/43-implementing-redux)  | [video](https://youtu.be/-PKEGq1DD3k) |
 
 
 
